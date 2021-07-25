@@ -1,7 +1,7 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{05FE214D-F95F-470D-B180-6D96A2113145}|Default">
   <MonoDevelop.Ide.ItemProperties.SearchAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.SortingAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortingAlgorithms/SortingAlgorithms.cs">
     <Files>
       <File FileName="SortingAlgorithms/Program.cs" Line="14" Column="37" />
       <File FileName="SortingAlgorithms/SortingAlgorithms.cs" Line="29" Column="36" />

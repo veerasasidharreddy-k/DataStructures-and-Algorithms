@@ -1,0 +1,12 @@
+/Users/veerasasidharreddykarri/Projects/DataStructures-and-Algorithms/Src/SortingAlgorithms/bin/Debug/netcoreapp3.1/SortingAlgorithms.deps.json
+/Users/veerasasidharreddykarri/Projects/DataStructures-and-Algorithms/Src/SortingAlgorithms/bin/Debug/netcoreapp3.1/SortingAlgorithms.runtimeconfig.json
+/Users/veerasasidharreddykarri/Projects/DataStructures-and-Algorithms/Src/SortingAlgorithms/bin/Debug/netcoreapp3.1/SortingAlgorithms.runtimeconfig.dev.json
+/Users/veerasasidharreddykarri/Projects/DataStructures-and-Algorithms/Src/SortingAlgorithms/bin/Debug/netcoreapp3.1/SortingAlgorithms.dll
+/Users/veerasasidharreddykarri/Projects/DataStructures-and-Algorithms/Src/SortingAlgorithms/bin/Debug/netcoreapp3.1/SortingAlgorithms.pdb
+/Users/veerasasidharreddykarri/Projects/DataStructures-and-Algorithms/Src/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.csproj.AssemblyReference.cache
+/Users/veerasasidharreddykarri/Projects/DataStructures-and-Algorithms/Src/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.AssemblyInfoInputs.cache
+/Users/veerasasidharreddykarri/Projects/DataStructures-and-Algorithms/Src/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.AssemblyInfo.cs
+/Users/veerasasidharreddykarri/Projects/DataStructures-and-Algorithms/Src/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.csproj.CoreCompileInputs.cache
+/Users/veerasasidharreddykarri/Projects/DataStructures-and-Algorithms/Src/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.dll
+/Users/veerasasidharreddykarri/Projects/DataStructures-and-Algorithms/Src/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.pdb
+/Users/veerasasidharreddykarri/Projects/DataStructures-and-Algorithms/Src/SortingAlgorithms/obj/Debug/netcoreapp3.1/SortingAlgorithms.genruntimeconfig.cache
