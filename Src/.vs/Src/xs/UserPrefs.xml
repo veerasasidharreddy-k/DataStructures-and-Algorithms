@@ -1,19 +1,24 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F3F12ED5-66C9-47A1-8BF2-895BC60EC964}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{05FE214D-F95F-470D-B180-6D96A2113145}|Default">
   <MonoDevelop.Ide.ItemProperties.SearchAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.SortingAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="SortingAlgorithms/Program.cs" Line="13" Column="1" />
-      <File FileName="SearchAlgorithms/Program.cs" />
-      <File FileName="SearchAlgorithms/SearchAlgorithms.cs" Line="74" Column="82" />
+      <File FileName="SortingAlgorithms/Program.cs" Line="14" Column="37" />
+      <File FileName="SortingAlgorithms/SortingAlgorithms.cs" Line="29" Column="36" />
+      <File FileName="SearchAlgorithms/SearchAlgorithms.cs" Line="75" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Src" expanded="True">
-            <Node name="SearchAlgorithms" expanded="True" selected="True" />
+          <Node name="Src" expanded="True" selected="True">
+            <Node name="SearchAlgorithms" expanded="True" />
             <Node name="SortingAlgorithms" expanded="True" />
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>(startIndex + endIndex) / 2</Value>
         </State>
       </Pad>
     </Pads>
