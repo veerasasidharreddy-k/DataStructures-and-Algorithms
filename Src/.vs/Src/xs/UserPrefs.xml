@@ -1,18 +1,19 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{05FE214D-F95F-470D-B180-6D96A2113145}|Default">
   <MonoDevelop.Ide.ItemProperties.SearchAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.SortingAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SortingAlgorithms/SortingAlgorithms.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="SortingAlgorithms/Program.cs" Line="14" Column="37" />
-      <File FileName="SortingAlgorithms/SortingAlgorithms.cs" Line="29" Column="36" />
-      <File FileName="SearchAlgorithms/SearchAlgorithms.cs" Line="75" Column="10" />
+      <File FileName="SortingAlgorithms/Program.cs" Line="22" Column="1" />
+      <File FileName="SortingAlgorithms/SortingAlgorithms.cs" Line="65" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Src" expanded="True" selected="True">
+          <Node name="Src" expanded="True">
             <Node name="SearchAlgorithms" expanded="True" />
-            <Node name="SortingAlgorithms" expanded="True" />
+            <Node name="SortingAlgorithms" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
